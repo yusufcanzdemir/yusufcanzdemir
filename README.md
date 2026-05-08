@@ -16,5 +16,3 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Görüntü işle
 ### İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcan-zdemir/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
